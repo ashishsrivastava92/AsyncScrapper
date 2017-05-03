@@ -1,4 +1,4 @@
-# AsyncCrapper
+# AsyncScrapper
 Asynchronous Web Scraper (gevent + BeautifulSoup)
 
 To run:
